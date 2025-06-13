@@ -11,12 +11,18 @@ Please download the FracLac plugin [here](https://imagej.net/ij/plugins/fraclac/
 
 ## Example of data obtainable with the presented pipeline
 
+
 ### **Microglial morphology changes following stimulation**
-![Fig 3_morph corrected](https://github.com/user-attachments/assets/3c9ec50d-7c4e-44d4-b9a3-09b4c38abbda)
+
+
+![Fig 3_morph corrected](https://github.com/user-attachments/assets/820ce41f-4b60-4463-a64d-6cb2585d0097)
+
 
 ### **Morphology-divided expression profiles**
 
-![Fig 4_IBA1_CD68](https://github.com/user-attachments/assets/f71cc464-82c0-4266-b9f9-bd22c995a598)
+
+![Fig 4_IBA1_CD68](https://github.com/user-attachments/assets/602b30c6-1c05-48b7-88df-01221cc1aee0)
+
 
 
 ## Please cite the following if you use the code
