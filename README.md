@@ -24,6 +24,11 @@ Please download the FracLac plugin [here](https://imagej.net/ij/plugins/fraclac/
 ![Fig 4_IBA1_CD68](https://github.com/user-attachments/assets/602b30c6-1c05-48b7-88df-01221cc1aee0)
 
 
+## Morphology features obtained with the pipeline
+![image](https://github.com/user-attachments/assets/c2fb4dd5-46cc-48d9-aa08-d338f1238be2)
+**+ #Branchens, #Junctions, Average Branch Length, Maximum Branch Length**
+(Fernàndes-Arjona et al., 2017)
+
 
 ## Please cite the following if you use the code
 ### Clustering, morphology type categorization and intensity analysis
