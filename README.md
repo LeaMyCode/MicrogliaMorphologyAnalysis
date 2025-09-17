@@ -5,9 +5,9 @@ Changes in microglial morphology can be analyzed as previously described (Ferná
 
 For a _how to guide_, please see the manual [here](https://docs.google.com/presentation/d/152YVASw_asdyCMiqoO04mW6p8qcry4-3/edit?usp=sharing&ouid=104382106800778478185&rtpof=true&sd=true). Examples are added above. 
 
-Please download the morphdata macro and the code for the first postprocessing step [here](https://github.com/anabelacampos/MorphData).
+Please download the morphdata macro and the code for the first postprocessing step [here](https://github.com/anabelacampos/MorphData) or download above, located in folder ImageJ.
 
-Please download the FracLac plugin [here](https://imagej.net/ij/plugins/fraclac/FLHelp/t4.htm).
+Please download the FracLac plugin [here](https://imagej.net/ij/plugins/fraclac/FLHelp/t4.htm) or download above, located in folder ImageJ.
 
 ## Example of data obtainable with the presented pipeline
 
